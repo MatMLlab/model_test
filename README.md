@@ -1,8 +1,8 @@
-# model_test_for_nmi
-This is a repository for NMI reviewers.
+# personal_model_test
+This is a repository for personal testing.
 
 ## Description
-This a deep learning model for structure symmetry description, material property prediction, and material design, which is based on capsule transformers.
+This a deep learning model.
 
 ## Development Environment
 ### Package dependencies
